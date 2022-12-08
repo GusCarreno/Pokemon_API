@@ -1,7 +1,6 @@
 # Pokemon_Test
-For Read Pokemons and see the info what pokemon you choose.
-TO DO :
-Login
+Read Pokemons and see the info of the pokemon you choose.
+
 
 For Run:
-Just donwload de code and run and enjoy it :) 
+Download the repo and run
